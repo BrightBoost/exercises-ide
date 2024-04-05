@@ -8,4 +8,4 @@ x = 3
 if x == 3:
     print("blabla")
     add(3, 5)
-    print("x is 2")
+    print("x is 3")

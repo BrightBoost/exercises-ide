@@ -9,5 +9,4 @@ for i in range(100):
 
 f.close()
 
-# formatting code
 # format the code

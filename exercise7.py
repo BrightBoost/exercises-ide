@@ -1,7 +1,7 @@
 # git
 ## add the github extension
 ## configure your github account
-## clone a repo
+## publish your project
 
 # terminal
 ## find a fun project at github.com

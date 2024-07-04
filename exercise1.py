@@ -1,7 +1,7 @@
 # working with files
 ## create a new file called solution1.py
 ## delete this file again
-## open sample.py using the shortcut
+## open https://github.com/BrightBoost/exercises-ide.gitsample.py using the shortcut
 
 # box selection
 ## use box selection to select a small part of the sample file

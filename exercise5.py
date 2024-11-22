@@ -18,5 +18,6 @@ else:
     print(num, "is a prime number")
 
 ## run the code, it should verify whether something is a prime nr
-## if you run the code and enter a prime number, it results in that it's not a prime number
+## if it doesn't let you input anything, run it with the python command in the terminal
+## if you run the code and enter a not prime number, it results in that it's a prime number
 ## debug the code using the debug option to step through and find the problem (and fix it)
